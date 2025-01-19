@@ -10,8 +10,8 @@ Monte Carlo simulation is a computational technique used in various fields, incl
 
 ### Dependencies
 
-Python libraries-matplotlib for plotting and animation
-works on any OS (Windows and Linux)
+Python libraries-matplotlib for plotting and animation,
+works on OS (Windows and Linux)
 
 ## Authors
 
